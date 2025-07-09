@@ -1,11 +1,21 @@
 ### Hola mi nombre es Gimena Sande 👋🏻
-Desarrolladora web 
-🌟 Tengo formación sólida en front-end y parte trasera. Apasionada por la tecnología y el desarrollo web, me enfoco en el aprendizaje continuo y en aportar valor dentro de equipos colaborativos. 
-💻 Manejo de tecnologías como HTML, CSS, JavaScript, React.js y MongoDB, junto con habilidades en análisis de datos utilizando Excel y Power BI. 
-🚀 Me destaco por ser proactiva, resolutiva y adaptable, siempre en busca de nuevos desafíos que me impulsan a seguir creciendo profesionalmente. * 
-🌍Estoy radicada en Argentina * ✉️ Puedes contactarme en [gimenasande1@gmail.com](mailto:gimenasande1@gmail.com)[](mailto:gimenasande1@gmail.com) * 
-🧠 Estoy aprendiendo SQL Server * 🤝 Estoy abierto a colaborar en Abierta a colaborar en proyectos, resolver problemas juntos y aprender en comunidad. ¡Siempre lista para sumar! * 
+
+DESARROLLADORA WEB
+
+<p align="start">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
+</p>
+
+✨ ***“Transformando ideas en código y creatividad en soluciones.”*** ✨
+
+🌟 Tengo formación sólida en front-end y parte trasera. Apasionada por la tecnología y el desarrollo web, me enfoco en el aprendizaje continuo y en aportar valor dentro de equipos colaborativos.  
+💻 Manejo de tecnologías como HTML, CSS, JavaScript, React.js y MongoDB, junto con habilidades en análisis de datos utilizando Excel y Power BI.  
+🚀 Me destaco por ser proactiva, resolutiva y adaptable, siempre en busca de nuevos desafíos que me impulsan a seguir creciendo profesionalmente.  
+🌍 Estoy radicada en Argentina.  
+✉️ Puedes contactarme en [gimenasande1@gmail.com](mailto:gimenasande1@gmail.com)  
+🤝 Abierta a colaborar, resolver problemas y aprender en comunidad. ¡Siempre lista para sumar!
 ⚡ En mi tiempo libre disfruto del diseño digital y la edición, lo que complementa mi enfoque en la estética y funcionalidad del desarrollo web.
+
 
 ### Habilidades
 
